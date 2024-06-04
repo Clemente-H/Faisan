@@ -7,7 +7,7 @@ Faisan es una extensión del modelo de lenguaje Falcon-7B, originalmente parte d
 - **Preentrenamiento Secundario y Fine-Tuning:** Utilizamos un conjunto diverso de corpus no anotados en español y otros datos específicos para ajustar el modelo, omitiendo técnicas como token augmentation.
 - **Evaluación con MT-Bench Español:** Proporcionamos una adaptación del MT-Bench al español para evaluar el rendimiento de Faisan en comparación con otros modelos de gran tamaño.
 
-## Descargas
+## Modelos
 - [Faisan-7B](https://huggingface.co/ClementeH/faisan-7b)
 - [Faisan-7B Instruct](https://huggingface.co/ClementeH/Faisan-7b-Instruct-v3)
 
